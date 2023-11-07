@@ -1,0 +1,11 @@
+<wpml-config>
+	<admin-texts>
+		<key name="alg_wc_left_to_free_shipping_info_content_cart" />
+		<key name="alg_wc_left_to_free_shipping_info_content_reached" />
+		<key name="alg_wc_left_to_free_shipping_info_content_empty_cart" />
+		<key name="alg_wc_left_to_free_shipping_info_content_mini_cart" />
+		<key name="alg_wc_left_to_free_shipping_info_content_checkout" />
+		<key name="alg_wc_left_to_free_shipping_default_notice_content" />
+		<key name="alg_wc_left_to_free_shipping_info_content_add_to_cart" />
+	</admin-texts>
+</wpml-config>

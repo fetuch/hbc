@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <metadata>
+      <ref_application_id>160825592398259</ref_application_id>
+      <ref_asset_id>QZSTE7Y8Ekt73tXtUtYfVfCiGIAhfa0c</ref_asset_id>
+    </metadata>
+    <title>Test feed</title>
+    <link>http://hbc.local</link>
+    <description>WooCommerce Product Feed PRO - This product feed is created with the Product Feed PRO for WooCommerce plugin from AdTribes.io. For all your support questions check out our FAQ on https://www.adtribes.io or e-mail to: support@adtribes.io </description>
+    <item>
+      <g:id>26</g:id>
+      <g:availability>in stock</g:availability>
+      <g:condition>New</g:condition>
+      <g:description>Product description: Nasza nowość, beżowe bluzo płaszczyki alpaki dostępne od jutra w sprzedaży, rozmiary 86-128</g:description>
+      <g:image_link>http://hbc.local/wp-content/uploads/2023/09/bluza-alpaka.jpg</g:image_link>
+      <g:link>http://hbc.local/product/bluzo-plaszczyk-alpaki/?attribute_pa_kolor=bezowy&amp;attribute_pa_rozmiar=xs&amp;utm_source=Meta / Facebook Catalog Feed / Instagram&amp;utm_campaign=Test feed&amp;utm_medium=cpc&amp;utm_term=26</g:link>
+      <g:title>Bluzo płaszczyk alpaki</g:title>
+      <g:price>PLN 109.47</g:price>
+      <g:color>Beżowy</g:color>
+      <g:item_group_id>15</g:item_group_id>
+      <g:product_type>Home &amp;gt; Bluzy</g:product_type>
+    </item>
+    <item>
+      <g:id>22</g:id>
+      <g:availability>in stock</g:availability>
+      <g:condition>New</g:condition>
+      <g:image_link>http://hbc.local/wp-content/uploads/2023/09/body.jpg</g:image_link>
+      <g:link>http://hbc.local/product/wzorzyste-body/?utm_source=Meta / Facebook Catalog Feed / Instagram&amp;utm_campaign=Test feed&amp;utm_medium=cpc&amp;utm_term=22</g:link>
+      <g:title>Wzorzyste body</g:title>
+      <g:price>PLN 60.27</g:price>
+      <g:product_type>Home &amp;gt; Bluzy</g:product_type>
+    </item>
+    <item>
+      <g:id>18</g:id>
+      <g:availability>in stock</g:availability>
+      <g:condition>New</g:condition>
+      <g:description>Pierwotnie oznaczało bowiem szerokie spodnie z lekkiej tkaniny, noszone w Indiach przez mężczyzn. Do polszczyzny „piżama” bądź „pidżama” dotarła przez angielskie pyjamas i oznacza przede wszystkim luźny ubiór przeznaczony do spania, na który składają się dwie części – spodnie i bluza.</g:description>
+      <g:image_link>http://hbc.local/wp-content/uploads/2023/09/pizama-karuzele.jpg</g:image_link>
+      <g:link>http://hbc.local/product/pizama/?utm_source=Meta / Facebook Catalog Feed / Instagram&amp;utm_campaign=Test feed&amp;utm_medium=cpc&amp;utm_term=18</g:link>
+      <g:title>Piżama</g:title>
+      <g:price>PLN 367.77</g:price>
+      <g:product_type>Home &amp;gt; Piżamy</g:product_type>
+    </item>
+  </channel>
+</rss>

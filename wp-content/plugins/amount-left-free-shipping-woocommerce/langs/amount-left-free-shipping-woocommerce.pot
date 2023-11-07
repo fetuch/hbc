@@ -1,0 +1,1143 @@
+# Copyright (C) 2023 WPFactory
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: amount-left-free-shipping-woocommerce 2.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/amount-left-free-shipping-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-11T21:55:42+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: amount-left-free-shipping-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Free Shipping Over Amount Bar for WooCommerce Pro"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpfactory.com/item/amount-left-free-shipping-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show your customers the amount left for free shipping in WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPFactory"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpfactory.com"
+msgstr ""
+
+#: includes/alg-wc-alfs-functions.php:34
+msgid "Please pass it as a key of the first parameter like %s"
+msgstr ""
+
+#: includes/class-alg-wc-alfs-core.php:348
+msgid "%s left for free shipping"
+msgstr ""
+
+#: includes/class-alg-wc-alfs-core.php:359
+msgid "User roles"
+msgstr ""
+
+#: includes/class-alg-wc-alfs-core.php:360
+msgid "Currencies"
+msgstr ""
+
+#: includes/class-alg-wc-alfs-core.php:361
+msgid "Shipping zones"
+msgstr ""
+
+#: includes/class-alg-wc-alfs-core.php:362
+msgid "Shipping methods"
+msgstr ""
+
+#: includes/class-alg-wc-alfs-core.php:363
+msgid "Shipping classes"
+msgstr ""
+
+#: includes/class-alg-wc-alfs-core.php:693
+#: includes/settings/class-alg-wc-alfs-settings-general.php:93
+msgid "You have free delivery!"
+msgstr ""
+
+#: includes/class-alg-wc-alfs.php:157
+msgid "Go Pro"
+msgstr ""
+
+#: includes/class-alg-wc-widget-alfs.php:25
+msgid "Amount Left for Free Shipping Widget"
+msgstr ""
+
+#: includes/class-alg-wc-widget-alfs.php:27
+#: includes/class-alg-wc-widget-alfs.php:60
+#: includes/settings/class-alg-wc-alfs-settings-general.php:60
+#: includes/settings/class-alg-wc-alfs-settings-general.php:289
+#: includes/settings/class-alg-wc-settings-alfs.php:24
+msgid "Amount Left for Free Shipping"
+msgstr ""
+
+#: includes/class-alg-wc-widget-alfs.php:64
+msgid "Title:"
+msgstr ""
+
+#: includes/class-alg-wc-widget-alfs.php:66
+msgid "Content:"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:24
+msgid "Add to cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:37
+msgid "\"Add to Cart\" Notice Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:40
+msgid "Notice displayed when \"Add to cart\" button is clicked."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:43
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:45
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:43
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:43
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:43
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:102
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:44
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:46
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:44
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:44
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:44
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:103
+msgid "Enable section"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:51
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:52
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:51
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:51
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:51
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:110
+msgid "Content"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:53
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:54
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:53
+#: includes/settings/class-alg-wc-alfs-settings-general.php:90
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:53
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:53
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:112
+msgid "You can use HTML and/or shortcodes here."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:61
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:62
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:61
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:61
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:143
+msgid "Position"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:67
+msgid "Before the standard text"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:68
+msgid "After the standard text"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:72
+msgid "Glue"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-add-to-cart.php:73
+msgid "\"Glue\" is inserted between the standard \"add to cart\" text and \"left for free shipping\" text."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:24
+msgid "Advanced"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:37
+msgid "Advanced options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:42
+msgid "Check shipping cost"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:43
+msgid "Show free shipping message if cart shipping costs are not present, i.e., when shipping total is zero"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:49
+msgid "Check for alternative free shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:50
+msgid "Check for already available alternative (i.e. not requiring minimum order amount) free shipping methods."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:51
+msgid "No text will be outputted in this case."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:57
+msgid "Virtual products"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:58
+msgid "Do not display any text if cart consists of virtual products only"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:65
+msgid "Ignore virtual products in cart to reach the min amount"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:66
+msgid "The free shipping method will also ignore virtual products in cart."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:74
+msgid "Clear notices"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:75
+msgid "Wipe notices when a product has been added to cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:76
+msgid "Enable if you have problems with duplicated messages."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:89
+msgid "AJAX Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:90
+msgid "Enable this section if you want the amount to be updated via AJAX, e.g. when using plugin's \"Store notice\" section, or WooCommerce \"Enable AJAX add to cart buttons on archives\" option, or for some positions in cart, when customer updates items quantities and the amount text is positioned outside of automatically refreshed area."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:95
+msgid "Enable AJAX"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:96
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:114
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:103
+msgid "Additional events"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:104
+msgid "Additional JavaScript events to update the amount text on. Leave empty if unsure."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:105
+msgid "These events are always included: %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:113
+msgid "Added to cart event without AJAX"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:115
+msgid "Fires a custom event %s in case a product has been added to cart without AJAX."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:116
+msgid "Enable it if the Store notice is not getting displayed on single product pages and if you have the \"Hide\" option enabled in \"Store notice\"."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:122
+msgid "Force update"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:123
+msgid "Force update via AJAX on any page load"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-advanced.php:124
+msgid "Enable if you have issues with caching."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:24
+msgid "Cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:39
+msgid "Cart Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:42
+msgid "Outputted on the cart page."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:68
+msgid "Before cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:69
+msgid "Before cart table"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:70
+msgid "Before cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:71
+msgid "Cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:72
+msgid "Cart coupon"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:73
+msgid "Cart actions"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:74
+msgid "After cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:75
+msgid "After cart table"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:76
+msgid "Cart collaterals"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:77
+msgid "After cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:78
+msgid "Before cart totals"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:79
+msgid "Cart totals: Before shipping (in table)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:80
+msgid "Cart totals: After shipping (in table)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:81
+msgid "Cart totals: Before order total (in table)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:82
+msgid "Cart totals: After order total (in table)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:83
+msgid "Proceed to checkout"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:84
+msgid "After cart totals"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:85
+msgid "Before shipping calculator"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:86
+msgid "After shipping calculator"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:87
+msgid "If cart is empty"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:91
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:83
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:78
+msgid "Position order (priority)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:92
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:84
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:79
+msgid "Here you can move the info inside the Position selected above."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:105
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:97
+msgid "Wrapper options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:108
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:100
+msgid "Sometimes, depending on the position used the content should be wrapped."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:108
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:100
+msgid "E.g., If it's being displayed inside a table it will need HTML row tags."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:109
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:101
+msgid "Here you can setup how the wrapping will take place."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:112
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:104
+msgid "Wrap method"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:115
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:107
+msgid "%s will wrap the content automatically, depending on the position."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:115
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:121
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:107
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:113
+msgid "Smart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:116
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:108
+msgid "%s will not wrap the content."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:116
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:122
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:108
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:114
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:166
+msgid "Ignore"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:117
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:109
+msgid "%s will wrap the content in any situation."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:117
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:123
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:109
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:115
+msgid "Force"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:127
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:119
+msgid "Wrap template"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:129
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:121
+msgid "Probably %s should suit well for positions using tables."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:142
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:147
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:134
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:139
+msgid "Custom style"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:148
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:140
+msgid "Customize the style"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:155
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:146
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:160
+msgid "Text color"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:161
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:152
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:166
+msgid "Font size"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-cart.php:162
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:153
+msgid "Font size in pixels."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:24
+msgid "Checkout"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:37
+msgid "Checkout Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:40
+msgid "Outputted on the checkout page."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:67
+msgid "Before checkout form"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:68
+msgid "Before customer details"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:69
+msgid "Billing"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:70
+#: includes/settings/class-alg-wc-alfs-settings-general.php:152
+msgid "Shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:71
+msgid "After customer details"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:72
+msgid "Before order review"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:73
+msgid "Order review"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:74
+msgid "Order review: Before shipping (in table)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:75
+msgid "Order review: After shipping (in table)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:76
+msgid "Order review: Payment: Before submit button"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:77
+msgid "Order review: Payment: After submit button"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:78
+msgid "After order review"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-checkout.php:79
+msgid "After checkout form"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:55
+msgid "General options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:61
+msgid "Enable plugin"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:67
+msgid "Shipping country"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:68
+msgid "If empty, set shipping country automatically based on the default shipping zone"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:69
+msgid "Useful if the free message is being displayed despite the minimum amount already set on the free shipping method."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:82
+msgid "General message options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:87
+msgid "Free shipping reached"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:89
+msgid "Outputted when min free shipping amount is reached."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:91
+msgid "To disable - set it empty."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:99
+msgid "Empty cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:100
+msgid "Display a custom message if the cart is empty"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:101
+msgid "If disabled, then standard content is outputted."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:107
+msgid "Ignored unless \"%s\" checkbox is enabled."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:108
+msgid "Message on empty cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:108
+msgid "Custom message"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:109
+msgid "E.g.: %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:110
+msgid "Free shipping on orders over %free_shipping_min_amount%."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:126
+msgid "Calculation"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:131
+#: includes/settings/class-alg-wc-alfs-settings-general.php:146
+#: includes/settings/class-alg-wc-alfs-settings-general.php:154
+msgid "Cart total method"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:132
+msgid "The method used to get the total amount from cart."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:137
+msgid "Displayed subtotal - %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:138
+msgid "Cart contents total - %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:139
+msgid "Cart total - %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:144
+msgid "Discounts"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:145
+msgid "Exclude discounts from cart total calculation"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:146
+msgid "Most probably, should be enabled when %s option is set as %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:146
+msgid "Displayed subtotal"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:153
+msgid "Exclude shipping from cart total calculation"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:154
+msgid "Most probably, should be enabled when %s option it set as %s"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:154
+msgid "Cart total"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:161
+msgid "Also exclude shipping taxes"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:162
+msgid "Needs the above exclusion option enabled"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:176
+#: includes/settings/class-alg-wc-alfs-settings-general.php:182
+msgid "Hide shipping methods"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:177
+msgid "Hide all the shipping methods on the frontend except the free shipping when it becomes available."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:183
+msgid "Hide other shipping methods when free shipping is available"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:184
+msgid "The free shipping will be considered available when the plugin can't find any amount left for free shipping."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:190
+msgid "Free shipping method"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:192
+msgid "The only shipping method that will be visible when free shipping is reached."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:206
+msgid "Hide the amount left text"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:207
+msgid "Hide the amount left text in some specific circumstance."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:212
+msgid "By cart amount"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:213
+msgid "Hides the text if cart is below a specific value."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:214
+msgid "Minimum cart amount required for displaying the amount left for free shipping."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:215
+msgid "Use 0 or leave it empty to disable it."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:221
+msgid "By shipping method"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:222
+msgid "Hides the text if the selected shipping methods are %s."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:222
+msgid "disabled"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:223
+#: includes/settings/class-alg-wc-alfs-settings-general.php:244
+#: includes/settings/class-alg-wc-alfs-settings-general.php:265
+msgid "Leave it empty to disable."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:231
+msgid "Choose if you need to have %s shipping methods disabled or %s."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:231
+#: includes/settings/class-alg-wc-alfs-settings-general.php:237
+msgid "All"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:231
+#: includes/settings/class-alg-wc-alfs-settings-general.php:236
+msgid "At least one"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:242
+msgid "By category"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:243
+msgid "Hides the text if a product from a specific category has been added to cart."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:256
+msgid "Check children categories"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:257
+msgid "Checks for children categories in cart so you can use just the parent categories in the %s option."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:257
+msgid "Hide by category"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:263
+msgid "By user role"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:264
+msgid "Hides the text based on user role."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:281
+msgid "Info"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:285
+msgid "You can also use:"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:288
+msgid "Widget"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:292
+msgid "Shortcode"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-general.php:296
+msgid "PHP function"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:24
+msgid "Manual min amount"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:37
+msgid "Guest"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:80
+msgid "No shipping class"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:130
+msgid "Manual min amount options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:131
+msgid "Generally the plugin will retrieve the minimum free shipping order amount automatically, however, if you are using <strong>non-standard</strong> shipping methods for free shipping (i.e. not the original \"Free shipping\" method from WooCommerce), you need to set the amount manually here."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:136
+msgid "Section"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:137
+msgid "Enable manual min amount section"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:143
+msgid "Amount"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:144
+msgid "Manual min amount value."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:156
+msgid "Special values"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:157
+msgid "Special values you can use on the %s section"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:157
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:230
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:285
+msgid "Extra Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:157
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:285
+msgid "Amounts"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:162
+msgid "Empty or Zero (0)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:166
+msgid "Ignores the manual value and try to retrieve the minimum free shipping order amount automatically."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:167
+msgid "Free shipping"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:167
+msgid "Displays the free shipping message."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:172
+msgid "Minus one (-1)"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:176
+msgid "Disable"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:176
+msgid "Does nothing, acting like a zero."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:177
+msgid "Hide"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:177
+msgid "Hides the amount left for free shipping text."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:189
+msgid "Compatibility"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:190
+msgid "Compatibility with 3rd party plugins or solutions."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:231
+msgid "Here you can optionally select user roles, currencies and/or shipping zones to set individual manual min amounts for."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:231
+msgid "Select values and \"Save changes\" for new option fields."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:295
+msgid "Multiple shipping class priority"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:299
+msgid "Calculate based on highest min amount."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-manual-min-amount.php:300
+msgid "Calculate based on lowest min amount."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:24
+msgid "Mini-cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:37
+msgid "Mini Cart Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:40
+msgid "Outputted in the mini cart widget."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:67
+msgid "Before mini cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:68
+msgid "Before mini cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:69
+msgid "After mini cart contents"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:70
+msgid "In mini cart total"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:71
+msgid "Before mini cart buttons"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:72
+msgid "In mini cart buttons"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:73
+msgid "After mini cart buttons"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-mini-cart.php:74
+msgid "After mini cart"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-section.php:46
+msgid "Available placeholders: %s."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:24
+msgid "Store notice"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:37
+msgid "Default WooCommerce notice"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:39
+msgid "You may want to set the %s option along with this option."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:61
+msgid "Notice type"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:66
+msgid "Notice"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:67
+msgid "Error"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:68
+msgid "Success"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:72
+msgid "Display by function"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:73
+msgid "Display the notice on some specific condition, like only in cart or in checkout."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:74
+msgid "Leave it empty to disable displaying the notice everywhere."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:95
+msgid "Site-wide notice"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:96
+msgid "Site-wide notice."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:97
+msgid "You may also want to enable %s option for this."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:120
+msgid "Placement hook"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:121
+msgid "The action hook used to add the notice to the DOM."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:127
+msgid "Animation"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:128
+msgid "Create a smooth animation effect with opacity and position"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:134
+msgid "Auto hide time"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:135
+msgid "Set to zero to show the notice permanently."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:136
+msgid "Time in milliseconds it will take to auto-hide the notice."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:149
+msgid "Bottom"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:150
+msgid "Top"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:154
+msgid "Background color"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:167
+msgid "Font size in pixels"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:173
+msgid "Font weight"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:174
+msgid "400 is supposed to be normal, while 700, bold."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:180
+msgid "Text alignment"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:186
+msgid "Left"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:187
+msgid "Right"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:188
+msgid "Center"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:189
+msgid "Justify"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:193
+msgid "Padding"
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:194
+msgid "Look for %s if you want help configuring the padding."
+msgstr ""
+
+#: includes/settings/class-alg-wc-alfs-settings-store-notice.php:194
+msgid "padding shorthand"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:59
+msgid "Amount Left for Free Shipping for WooCommerce Pro"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:60
+msgid "Disabled options can be unlocked using <a href=\"%pro_version_url%\" target=\"_blank\"><strong>%pro_version_title%</strong></a>"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:61
+msgid "Upgrade to Pro version"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:88
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:93
+msgid "Reset section settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:94
+msgid "Reset"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:95
+msgid "Check the box and save changes to reset."
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-alfs.php:123
+#: includes/settings/class-alg-wc-settings-alfs.php:138
+msgid "Your settings have been reset."
+msgstr ""
